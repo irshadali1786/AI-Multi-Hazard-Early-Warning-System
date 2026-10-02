@@ -31,6 +31,10 @@ An n8n workflow that monitors earthquakes, severe weather, and wildfires across 
    - A logged row in the Google Sheets `History` tab (`alert_sent: yes`)
 8. Low-risk checks are still logged (`alert_sent: no`) for full traceability
 
+## 📸 Workflow
+
+![DisasterSense n8n Workflow](workflow.png)
+
 ## Setup
 
 ### 1. Google Sheet
